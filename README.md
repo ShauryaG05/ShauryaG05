@@ -1,21 +1,50 @@
-# 💫 About Me:
-Hi, I'm Shaurya 👋<br><br>I’m a developer working across the MERN stack, currently focused on mastering React and building scalable frontend experiences.<br><br>I’ve already worked on backend development using Node.js and Express, including routing, cookies, and API handling.<br>Before that, I built a strong foundation in Data Structures & Algorithms.<br><br>I also explore data analysis using Python libraries like Pandas and Matplotlib.<br><br>What I'm doing right now:<br>- Building full-stack applications (MERN)<br>- Leveling up in React<br>- Improving problem-solving and system thinking<br><br>I like turning ideas into working products — not just tutorials.<br><br>
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Shaurya Gupta — Full-Stack Developer and aspiring AI Engineer focused on backend engineering">
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaurya-gupta-5581393a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryakanha2@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ShauryaGupta2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ShauryaGupta2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShauryaGupta2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShauryaGupta2006&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+Hi, I'm **Shaurya Gupta**, a full-stack developer from Gurgaon with a focus on **backend engineering**, and an aspiring **AI engineer**.
 
----
-[![](https://komarev.com/ghpvc/?username=ShauryaGupta2006&icon=0&color=0)](https://visitcount.itsvg.in)
+## Focus
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Backend engineering
+- Full-stack development
+- Growing toward AI engineering
+
+## Featured Projects
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **[PackPort](https://github.com/ShauryaG05/PackPort)** | Centralized package telemetry and remote runtime maintenance platform for developer environments (`pip` and `npm`) | [Docs](https://packport-docs.vercel.app) |
+| **[MovieForecasts](https://github.com/ShauryaG05/MVF)** | Full-stack box office analytics and movie discovery app built on the TMDB API | [Live](https://www.movieforecasts.com/) |
+| **[StormSense](https://github.com/ShauryaG05/Strome-Sense)** | AI-assisted cyclone risk assessment and early-warning platform with geospatial risk mapping | [Live](https://strome-sense.vercel.app) |
+
+## Engineering Stack
+
+*Technologies used across the projects above.*
+
+| Area | Tools |
+| --- | --- |
+| Backend | Node.js, Express, FastAPI, Socket.IO |
+| Frontend | React, Vite, Tailwind CSS |
+| Data | MongoDB, Mongoose |
+| AI / ML | scikit-learn, Grok AI (xAI API) |
+| Languages | JavaScript, Python |
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ShauryaG05&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShauryaG05&show_icons=true&theme=default&hide_border=true" alt="GitHub stats for ShauryaG05">
+</picture>
+
+## Connect
+
+[GitHub](https://github.com/ShauryaG05)

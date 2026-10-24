@@ -47,4 +47,4 @@ Hi, I'm **Shaurya Gupta**, a full-stack developer from Gurgaon with a focus on *
 
 ## Connect
 
-[GitHub](https://github.com/ShauryaG05)
+[GitHub](https://github.com/ShauryaG05) , [X]([https://github.com/ShauryaG05](https://x.com/shauryag05))

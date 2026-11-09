@@ -4,12 +4,7 @@
 
 ### `shaurya@github ~ $ whoami`
 
-<table>
-  <tr>
-    <td width="50%"><a href="shaurya-ascii.svg"><img src="shaurya-ascii.svg" alt="Shaurya, ASCII portrait" width="100%"></a></td>
-    <td width="50%"><a href="stats.svg"><img src="stats.svg" alt="Shaurya's GitHub streak and contribution stats, auto-refreshed daily" width="100%"></a></td>
-  </tr>
-</table>
+<td width="50%"><a href="dark.svg"><img src="shaurya-ascii.svg" alt="Shaurya, ASCII portrait" width="100%"></a></td>
 
 ### `shaurya@github ~ $ ./links.sh`
 

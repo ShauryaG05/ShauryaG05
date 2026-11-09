@@ -4,7 +4,7 @@
 
 ### `shaurya@github ~ $ whoami`
 
-<td width="50%"><a href="dark.svg"><img src="shaurya-ascii.svg" alt="Shaurya, ASCII portrait" width="100%"></a></td>
+<td width="50%"><a href="dark.svg"><img src="dark.svg" alt="Shaurya, ASCII portrait" width="100%"></a></td>
 
 ### `shaurya@github ~ $ ./links.sh`
 

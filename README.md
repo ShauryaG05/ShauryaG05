@@ -1,10 +1,12 @@
-### `shaurya@github ~ $ ./contributions.sh`
-
-[![Shaurya's GitHub contribution graph, auto-refreshed daily](contrib-heatmap.svg)](contrib-heatmap.svg)
 
 ### `shaurya@github ~ $ whoami`
 
 <td width="50%"><a href="dark.svg"><img src="dark.svg" alt="Shaurya, ASCII portrait" width="100%"></a></td>
+
+### `shaurya@github ~ $ ./contributions.sh`
+
+[![Shaurya's GitHub contribution graph, auto-refreshed daily](contrib-heatmap.svg)](contrib-heatmap.svg)
+
 
 ### `shaurya@github ~ $ ./links.sh`
 
